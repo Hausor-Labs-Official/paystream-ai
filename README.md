@@ -417,8 +417,7 @@ cd paystream-ai
 npm install
 
 # Set up environment variables
-cp .env.example .env.local
-# Add your API keys to .env.local
+# See .env.example for required variables
 
 # Initialize Qdrant collections (optional)
 npx tsx scripts/init-qdrant-collections.ts
@@ -436,7 +435,7 @@ Visit http://localhost:3000
 
 ## Environment Variables
 
-Create a `.env.local` file with the following:
+Reference `.env.example` for all required variables:
 
 ```bash
 # Database
