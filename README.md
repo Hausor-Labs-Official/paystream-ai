@@ -10,7 +10,19 @@ Paystream AI eliminates manual payroll processing by combining artificial intell
 
 **Built by:** Hausor Labs
 **Blockchain:** Arc Testnet
-**Demo:** [https://pay-stream.vercel.app](https://pay-stream.vercel.app)
+**Demo:** [https://paystream.hausorlabs.tech](https://paystream.hausorlabs.tech)
+
+---
+
+## About
+
+Paystream AI was built for the AI Genesis Hackathon to demonstrate how artificial intelligence and blockchain technology can transform traditional payroll systems. The platform addresses three critical challenges facing modern businesses: payment speed, operational efficiency, and AI-powered automation.
+
+Traditional payroll systems require days of manual processing, incur high transaction fees, and operate only during banking hours. Paystream AI solves these problems by combining Google Gemini's multimodal AI capabilities with Arc blockchain's instant settlement network. Employees can receive USDC payments in seconds through natural language commands, voice input, or automated workflows.
+
+The platform leverages Qdrant's vector database for semantic employee search, enabling queries like "find all blockchain developers" instead of exact keyword matching. Opus workflow automation provides enterprise-grade approval routing with AI validation from dual models. Circle's developer wallets ensure secure, compliant USDC custody and transfers.
+
+Paystream AI represents the future of payroll: instant, intelligent, and accessible 24/7. Built by Hausor Labs, the platform showcases how AI and blockchain can eliminate inefficiencies in critical business operations while maintaining security and compliance standards.
 
 ---
 
@@ -689,7 +701,7 @@ Copyright (c) 2025 Hausor Labs
 ## Contact
 
 **Built by:** Hausor Labs
-**Website:** https://pay-stream.vercel.app
+**Website:** https://paystream.hausorlabs.tech
 **Repository:** https://github.com/Hausor-Labs-Official/paystream-ai
 
 ---
